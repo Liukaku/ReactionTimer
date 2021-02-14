@@ -1,0 +1,1 @@
+export const USER_ATTEMPT = 'USER_ATTEMPT';
